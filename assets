@@ -1,0 +1,82 @@
+Assets
+
+
+
+Font-Family: 
+
+font-family: 'Lora', serif;
+font-family: 'Roboto', sans-serif;
+
+
+Color: 
+
+ORANGE
+rgba(236, 73, 49, 1)
+
+LIGHT GREY
+rgba(169, 169, 169, 1)
+
+DARK GREY
+rgba(107, 107, 107, 1)
+
+BLACK-ISH
+rgba(12, 16, 33, 1)
+
+
+Font-Awesome Sizing:
+
+<i class="fa fa-camera-retro fa-lg"></i> fa-lg
+<i class="fa fa-camera-retro fa-2x"></i> fa-2x
+<i class="fa fa-camera-retro fa-3x"></i> fa-3x
+<i class="fa fa-camera-retro fa-4x"></i> fa-4x
+<i class="fa fa-camera-retro fa-5x"></i> fa-5x
+
+
+
+Font-Awesome Icons
+
+<i class="fa fa-envelope" aria-hidden="true"></i>
+
+fa-envelope
+fa-phone
+fa-user
+fa-male
+fa-search
+fa-calendar
+fa-chevron-circle-down
+fa-long-arrow-right
+fa-arrow-circle-down
+fa-list
+fa-facebook
+fa-twitter
+fa-behance
+fa-skype
+
+
+Making a search box: 
+<div class="footer-emailBox">
+   <input type="email" id="email" placeholder="Info@info.com"/>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
